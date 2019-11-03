@@ -1,0 +1,14 @@
+https://github.com/fidler-lab/polyrnn-pp
+https://github.com/YudeWang/deeplabv3plus-pytorch
+https://github.com/Chrisding/seal
+https://github.com/s9xie/hed
+https://github.com/carlren/gSLICr
+https://github.com/yun-liu/del
+https://github.com/lijiaman/CASENet
+https://github.com/zhixuanli/CASENet-1
+https://github.com/xwjabc/hed
+https://github.com/xmojiao/deeplab_v2
+https://tangh.github.io/articles/coco-and-cityscapes-datasets/
+https://github.com/m3at/coco-panoptic
+https://github.com/uber-research/UPSNet
+https://zhuanlan.zhihu.com/p/68531147
